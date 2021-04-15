@@ -6,7 +6,7 @@
   <link href="http://iheng-top.github.io/atom.xml" rel="self"/>
   
   <link href="http://iheng-top.github.io/"/>
-  <updated>2021-04-15T03:07:07.286Z</updated>
+  <updated>2021-04-15T03:25:07.542Z</updated>
   <id>http://iheng-top.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://iheng-top.github.io/2021/04/15/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F/"/>
     <id>http://iheng-top.github.io/2021/04/15/%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F/</id>
     <published>2021-04-15T02:56:05.000Z</published>
-    <updated>2021-04-15T03:07:07.286Z</updated>
+    <updated>2021-04-15T03:25:07.542Z</updated>
     
     <content type="html"><![CDATA[<p>选择排序（Selection sort）是一种简单直观的<a href="https://baike.baidu.com/item/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/5399605">排序算法</a>。它的工作原理是：第一次从待排序的<a href="https://baike.baidu.com/item/%E6%95%B0%E6%8D%AE%E5%85%83%E7%B4%A0/715313">数据元素</a>中选出最小（或最大）的一个元素，存放在序列的起始位置，然后再从剩余的未排序元素中寻找到最小（大）元素，然后放到已排序的序列的末尾。以此类推，直到全部待排序的数据元素的个数为零。选择<a href="https://baike.baidu.com/item/%E6%8E%92%E5%BA%8F/1066239">排序</a>是不稳定的排序方法。</p><span id="more"></span>]]></content>
     
